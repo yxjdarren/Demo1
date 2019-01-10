@@ -1,0 +1,121 @@
+D:\学生成绩管理系统\student\student\obj\Debug\ResolveAssemblyReference.cache
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmCourse.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmDept.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmDetail.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmLogin.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmMain.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmProcdure.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmReport.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.frmStudent.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.Properties.Resources.resources
+D:\学生成绩管理系统\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+D:\学生成绩管理系统\student\student\bin\Debug\student.exe
+D:\学生成绩管理系统\student\student\bin\Debug\student.pdb
+D:\学生成绩管理系统\student\student\obj\Debug\student.exe
+D:\学生成绩管理系统\student\student\obj\Debug\student.pdb
+E:\学生成绩管理系统\student\student\obj\Debug\student.exe
+E:\学生成绩管理系统\student\student\obj\Debug\student.pdb
+E:\学生成绩管理系统\student\student\bin\Debug\student.exe
+E:\学生成绩管理系统\student\student\bin\Debug\student.pdb
+E:\学生成绩管理系统\student\student\obj\Debug\ResolveAssemblyReference.cache
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmCourse.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmDept.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmDetail.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmLogin.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmMain.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmProcdure.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmReport.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmStudent.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.Properties.Resources.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmAdd.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmModi.resources
+E:\学生成绩管理系统\student\student\obj\Debug\student.frmdel.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.exe
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.pdb
+C:\Users\Gangsta Walk\Desktop\student\student\bin\Debug\student.exe
+C:\Users\Gangsta Walk\Desktop\student\student\bin\Debug\student.pdb
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmAdd.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmLogin.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmModi.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmdel.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmCourse.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmDept.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmDetail.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmMain.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmProcdure.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmReport.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.frmStudent.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\Gangsta Walk\Desktop\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+J:\TIM_sto\student\student\obj\Debug\student.exe
+J:\TIM_sto\student\student\obj\Debug\student.pdb
+J:\TIM_sto\student\student\obj\Debug\student.frmAdd.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmLogin.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmModi.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmdel.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmCourse.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmDept.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmDetail.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmMain.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmProcdure.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmReport.resources
+J:\TIM_sto\student\student\obj\Debug\student.frmStudent.resources
+J:\TIM_sto\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+J:\TIM_sto\student\student\bin\Debug\student.exe
+J:\TIM_sto\student\student\bin\Debug\student.pdb
+J:\TIM_sto\student\student\obj\Debug\student.Properties.Resources.resources
+J:\TIM_sto\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+J:\TIM_sto\student1\student\obj\Debug\student.exe
+J:\TIM_sto\student1\student\obj\Debug\student.pdb
+J:\TIM_sto\student1\student\bin\Debug\student.exe
+J:\TIM_sto\student1\student\bin\Debug\student.pdb
+J:\TIM_sto\student1\student\obj\Debug\student.frmAdd.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmLogin.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmModi.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmdel.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmCourse.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmDept.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmDetail.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmMain.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmProcdure.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmReport.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmStudent.resources
+J:\TIM_sto\student1\student\obj\Debug\student.Properties.Resources.resources
+J:\TIM_sto\student1\student\obj\Debug\student.csproj.GenerateResource.Cache
+J:\TIM_sto\student1\student\obj\Debug\student.frmManage.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmStuQuery.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmCouQuery.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmCouGraQuery.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmAveCouGraQuery.resources
+J:\TIM_sto\student1\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+J:\TIM_sto\student1\student\obj\Debug\student.frmList.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmDistribution.resources
+J:\TIM_sto\student1\student\obj\Debug\student.frmCDistribution.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.exe
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.pdb
+J:\石大\CZ\新建文件夹\student1\student\bin\Debug\student.exe
+J:\石大\CZ\新建文件夹\student1\student\bin\Debug\student.pdb
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmCDistribution.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmDistribution.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmList.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmAveCouGraQuery.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmCouGraQuery.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmCouQuery.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmStuQuery.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmManage.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmAdd.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmLogin.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmModi.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmdel.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmCourse.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmDept.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmDetail.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmMain.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmProcdure.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmReport.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.frmStudent.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.Properties.Resources.resources
+J:\石大\CZ\新建文件夹\student1\student\obj\Debug\student.csproj.GenerateResource.Cache
